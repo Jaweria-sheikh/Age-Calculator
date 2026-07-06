@@ -8,7 +8,7 @@ function calculateAge(){
     }
     else{
         let age = getAge(dob);
-        result.innerText = `Your age is ${age} years Old`;
+        result.innerText = `You are ${age} years Old`;
     }
 }
 
